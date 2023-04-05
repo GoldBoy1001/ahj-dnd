@@ -1,0 +1,25 @@
+.column {
+  flex: 1;
+  background-color: #fff;
+  margin: 4px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 2px;
+}
+
+.column-header {
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.column-footer {
+  margin-top: 5px;
+}
+
+.open-form {
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  color: #828f9a;
+}
